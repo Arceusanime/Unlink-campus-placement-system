@@ -1,4 +1,4 @@
 package com.unlink.model;
 
-public class person {
+public class Recruiter {
 }
