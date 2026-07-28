@@ -31,6 +31,12 @@ public class DashboardFrame extends JFrame {
 
         registerEvents();
 
+        ImageIcon icon = new ImageIcon(
+                getClass().getResource("/images/title.png")
+        );
+
+        setIconImage(icon.getImage());
+
         setVisible(true);
     }
 
