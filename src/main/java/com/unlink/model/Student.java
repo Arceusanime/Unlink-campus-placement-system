@@ -9,6 +9,7 @@ public class Student extends Person {
     private String resumePath;
     private PlacementStatus placementStatus;
 
+
     public Student() {
     }
 
@@ -87,4 +88,25 @@ public class Student extends Person {
                 ", placementStatus=" + placementStatus +
                 '}';
     }
+
+    @Override
+    public boolean equals(Object obj) {
+
+        if (this == obj) {
+            return true;
+        }
+
+        if (!(obj instanceof Student other)) {
+            return false;
+        }
+
+        return getId() == other.getId();
+    }
+
+    @Override
+    public int hashCode() {
+        return Integer.hashCode(getId());
+    }
+
+
 }
