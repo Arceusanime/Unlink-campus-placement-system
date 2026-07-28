@@ -1,4 +1,6 @@
 # 🎓 Campus Placement Management System
+<img width="1254" height="1254" alt="logo" src="https://github.com/user-attachments/assets/8ce07ddf-da46-4df7-8930-1b5b99185f9d" />
+
 
 A desktop-based **Campus Placement Management System** developed using **Java Swing, JDBC, and MySQL** following a layered architecture with the **DAO Design Pattern**. The application streamlines the campus recruitment process by managing students, companies, job postings, applications, placements, and administrative operations.
 
