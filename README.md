@@ -1,4 +1,4 @@
-# 🎓 Campus Placement Management System
+# UNLINK - Campus Placement Management System
 <img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/8ce07ddf-da46-4df7-8930-1b5b99185f9d" />
 
 
